@@ -1,0 +1,24 @@
+{
+  "name": "GOAT TOPUP - BD's Best TopUp Site",
+  "short_name": "GOAT TOPUP",
+  "description": "বাংলাদেশের সবচেয়ে বিশ্বস্ত ও সস্তা ফ্রি ফায়ার ডায়মন্ড টপআপ সাইট।",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#dc2626",
+  "orientation": "portrait",
+  "icons":[
+    {
+      "src": "https://imagizer.imageshack.com/img923/7397/UPtNjZ.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://imagizer.imageshack.com/img923/7397/UPtNjZ.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
